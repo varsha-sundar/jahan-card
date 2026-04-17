@@ -1,0 +1,9 @@
+# team-source.txt — opening photos (see embedded-notes.js for messages; note-adjacent photos are in index.html PAGE.noteSidePhotos)
+# Serve the folder (e.g. python3 -m http.server) so the page can load this file.
+#
+# === PHOTOS ===
+# Order = left to right in the opening grid. Only kickoff + IPO here; Liberty & contractor sit beside notes in code.
+
+=== PHOTOS ===
+photos/kickoff.jpg | Team kickoff
+photos/ipo-bell.jpg | Ringing the IPO bell
