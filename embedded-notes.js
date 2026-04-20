@@ -33,6 +33,21 @@ I'm so excited to see you thrive in your new role, and bring product & delivery 
 
 Our next Liberty game outing will have to be a DelOps x Product special!!
 
+## Koen
+Hej Jahan! 
+
+From expansion, to product, to delivery ops, you’re going places!
+
+I have really enjoyed being on the same team (might need to consider joining Delivery OPS if you have an opening?). You’re amazingly smart, kind, and dedicated to make things work better.
+
+I greatly appreciate how humble and curious you are in everything you do. Even when switching to (yet another) product space, you became an expert in no-time whatsoever.
+
+On the personal side, I am glad to have had your support in figuring out some of the transition into product together. Our shared past roles made for instant understanding of the struggles and joys of the product role.
+
+I know you’re already doing a great job in the Delivery Ops Org and couldn’t be more excited for you.
+
+Stay in touch!
+
 ## Lauren
 Jahan! I learned so much about the Via product from you - before you joined our team officially and even more once you did! Thank you for being such a great thought partner in brainstorming about paratransit features. You made quite an impact on our team and the VOC in your time on product, and we'll miss you! That said, I'm excited for you and your new role and know that you will absolutely crush it. Good luck, and keep visiting us for lunches and happy hours!
 
