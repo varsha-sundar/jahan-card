@@ -52,8 +52,11 @@ Stay in touch!
 Jahan ❤︎ 
 
 Working with you has been such a great experience. I always appreciated how thoughtful and insightful you were - especially how deeply you understood our users given your previous expertise, which clearly came through in everything we built together.
+
 On a personal level, it was just really fun and easy to work with you! I’m so glad we had the chance to collaborate, and I think you led things in an amazing way - we consistently reached strong outcomes, with real depth and clarity behind them.
+
 On our very first project together, the Bookings page, you already landed such a huge success, and it felt like from the very start you made an incredible impact in the product world!
+
 I’ll really miss working with you, but I’m so happy you’re still at reach. There’s no doubt you’re a huge asset to Via, and I’m excited to see all the great things you’ll continue to do!
 
 ## Lauren
