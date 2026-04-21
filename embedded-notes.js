@@ -72,4 +72,46 @@ You made such a big impact on the book ride experience in the VOC and through vo
 Wishing you all the luck with leading delivery ops, they are lucky to have you! And of course, on running your contracting business on the side.
 
 Xx Paula
+
+## Yaad
+Jahan!!!
+
+We worked together for less than a year, and it feels like I've known you for ages.
+
+I was so happy to have you as my product, especially when entering a new team and product I wasn't familiar with.
+
+You helped me a lot with the ramp-up, and I felt I could ask you anything.
+
+It was clear to see how important the goal of making our product better was to you, and this is why, among many things, you left a big impact.
+
+I appreciate the willingness to always brainstorm together and also exchange some experiences just for fun.
+
+You were great to work with! And I will find excuses to keep doing so in your new role 🙂
+
+Good luck!
+I know you will be the best.
+
+## Roi
+Dear Jahan,
+
+You approach your work with total sincerity, commitment, and unreserved enthusiasm, free from divided attention or doubt. You are the voice of the customer, the protector of their experience and the advocate for those unheard behind the data.
+
+From advocating for people with disabilities using the Dial-a-Ride service to improving the RM for frustrated operators and insisting on a superb experience for riders calling our IVR, you always put the customer first.
+
+It was (and hopefully still is) a pleasure working alongside you, pushing Via toward higher quality and standards, and ensuring technology serves the people who serve the business.
+Roi
+
+## Elias
+Jahan!
+
+It’s been an amazing journey working with you, building great products while keeping such a fun and positive environment. It was always a blast being part of it.
+
+From tackling some of the most complex booking and ride flows to delivering polished, high-quality results in such an efficient way, I’m really grateful I got to be part of that with you.
+
+I’ve always appreciated the attention you give to every detail and how you consistently go the extra mile to push the product forward and support the team.
+
+Knowing how sharp and thoughtful you are, I have no doubt you’ll absolutely crush your next role!!
+
+Wishing you all the best! :rocket:
+
 `.trim();
