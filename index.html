@@ -325,6 +325,13 @@
               fig.className = "note-letter__figure";
               var img = document.createElement("img");
               img.className = "note-letter__img";
+              var useContain =
+                media.fit === "contain" || (media.aspectRatio && media.fit !== "cover");
+              img.className =
+                "note-letter__img" + (useContain ? " note-letter__img--fit-contain" : "");
+              if (media.aspectRatio) {
+                img.style.aspectRatio = String(media.aspectRatio).trim();
+              }
               img.src = media.src;
               img.alt = media.alt || "";
               img.setAttribute("loading", "lazy");
