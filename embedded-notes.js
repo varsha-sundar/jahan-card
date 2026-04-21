@@ -99,7 +99,6 @@ You approach your work with total sincerity, commitment, and unreserved enthusia
 From advocating for people with disabilities using the Dial-a-Ride service to improving the RM for frustrated operators and insisting on a superb experience for riders calling our IVR, you always put the customer first.
 
 It was (and hopefully still is) a pleasure working alongside you, pushing Via toward higher quality and standards, and ensuring technology serves the people who serve the business.
-Roi
 
 ## Elias
 Jahan!
