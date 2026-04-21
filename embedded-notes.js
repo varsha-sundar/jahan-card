@@ -111,6 +111,6 @@ I’ve always appreciated the attention you give to every detail and how you con
 
 Knowing how sharp and thoughtful you are, I have no doubt you’ll absolutely crush your next role!!
 
-Wishing you all the best! :rocket:
+Wishing you all the best! 🚀
 
 `.trim();
